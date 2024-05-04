@@ -1,0 +1,27 @@
+{
+  "language": "node",
+  "title": {
+    "us": "Deploying Wordpress Site on Debian",
+    "es": "Desplegando un sitio Wordpress en Debian"
+  },
+  "slug": "deploying-wordpress-site-on-debian",
+  "description": {
+    "us": "",
+    "es": ""
+  },
+  "grading": "isolated",
+  "repository": "https://github.com/4GeeksAcademy/iptables-blocking-practice",
+  "duration": 2,
+  "difficulty": "intermediate",
+  "videoSolutions": true,
+  "projectType": "tutorial",
+  "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+  "skills": ["cybersecurity","ciberseguridad","network"],
+  "graded": true,
+  "editor": {
+    "version": "3.1.23"
+  },
+  "telemetry": {
+    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+  }
+}
