@@ -4,11 +4,11 @@ Once you have copied the files to your web folder it is time to configure your s
 
 The first thing you should do is copy the `wp-config-sample.php` file and create one called `wp-config.php`, which will contain the wordpress database access parameters (the `wp-config-sample.php` file works as a template). Once in there you will need to update the database access parameters.
 
-![Wordpress params](.learn/assets/wp-config-params.png)
+![Wordpress params](../../.learn/assets/wp-config-params.png)
 
 If everything works fine when you open in the browser the address [localhost/wordpress](localhost/wordpress) you will see a web page where you must enter the title of the site and you will be asked for the data of what will be the administrator user of your Wordpress website.
 
-![Wordpress settings](.learn/assets/wordpress-setup.png)
+![Wordpress settings](../../.learn/assets/wordpress-setup.png)
 
 ## 📝 Instructions
 

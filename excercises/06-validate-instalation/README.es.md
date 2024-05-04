@@ -8,7 +8,7 @@ Para que learnpack pueda recibir la información que se enviará desde tu maquin
 
 Para ello selecciona la pestaña "Puertos" en el panel inferior de codespace, ahi verás los puertos que se están utilizando. Necesitas publicar el puerto `3001` y para ello has click con el botón derecho del mouse en el puerto, ve al menú `Visibilidad del puerto` y selecciona la opción `Público`
 
-![Puerto público](../../.learn/assets/public-ports.png)
+![Puerto público](../../../../.learn/assets/public-ports.png)
 
 ## 2. Ejecuta el script de validación `validate-wordpress-site.sh`
 
@@ -22,7 +22,7 @@ Si todo sale bien, en la terminal verás un mensaje confirmándote que los datos
 
 Una vez ejecutado el script con éxito, podrás ejecutar la prueba para validar tu instalación de Windows en VirtualBox.
 
-![Script Windows](../../.learn/assets/script-test.png)
+![Script Windows](../../../../.learn/assets/script-test.png)
 
 ## 4. ¡Listo!
 

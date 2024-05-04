@@ -4,11 +4,11 @@ Una vez que ya has copiado los archivos a tu carpeta web es hora de configurar t
 
 Lo primero que debes hacer es copiar el archivo `wp-config-sample.php` y crear uno llamado `wp-config.php`, el cual va a contener los parámetros de acceso a la base de datos de wordpress (el archivo `wp-config-sample.php` funciona como una plantilla). Una vez ahi dentro deberás actualizar los parámetros de acceso de a la base de datos.
 
-![Wordpress params](.learn/assets/wp-config-params.png)
+![Wordpress params](../../.learn/assets/wp-config-params.png)
 
 Si todo funciona bien al abrir en el navegador la dirección [localhost/wordpress](localhost/wordpress) podrás ver una página web donde deberás ingresar el titulo del sitio y se te solicitarán los datos de lo que será el usuario administrador de tu web Wordpress.
 
-![Wordpress settings](.learn/assets/wordpress-setup.png)
+![Wordpress settings](../../.learn/assets/wordpress-setup.png)
 
 ## 📝 Instrucciones
 
