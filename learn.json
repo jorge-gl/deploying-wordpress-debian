@@ -6,8 +6,8 @@
   },
   "slug": "deploying-wordpress-site-on-debian",
   "description": {
-    "us": "",
-    "es": ""
+    "us": "Learn how to make a basic deployment of a website with Wordpress, one of the most popular content management software.",
+    "es": "Aprende a hacer un despliegue básico de un sitio web con Wordpress, uno de los softwares de control de contenido mas populares."
   },
   "grading": "isolated",
   "repository": "https://github.com/4GeeksAcademy/iptables-blocking-practice",
