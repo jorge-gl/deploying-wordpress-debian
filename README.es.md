@@ -1,30 +1,19 @@
-# VirtualBox Interactive Tutorial
+# Desplegando un sitio Wordpress en Debian
 
 <!-- hide -->
 
-> By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+> By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/deploying-wordpress-debian/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/installing-kali-linux-on-virtual-machine)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*These instructions are [available in english](https://github.com/4GeeksAcademy/installing-kali-linux-on-virtual-machine/blob/main/README.md)*
+*These instructions are [available in english](https://github.com/4GeeksAcademy/deploying-wordpress-debian/blob/main/README.md)*
 <!-- endhide -->
 
 📝 Instrucciones
 
-En ésta práctica instalaras VirtualBox en tu computadora y lo utilizarás para crear una máquina virtual con Kali Linux. VirtualBox será tu laboratorio a lo largo del curso, donde tendrás máquinas virtuales con sistemas operativos distintos donde podrás experimentar cosas en un entorno controlado y sin afectar tu maquina principal.
-
-Por otra parte Kali es una distribución de Linux enfocada en la seguridad informática, preinstalada con herramientas para pruebas de penetración, análisis de vulnerabilidades, auditoría de redes y forense digital. Es popular entre profesionales de seguridad y entusiastas por su amplio conjunto de herramientas y facilidad de uso.
-
-Los siguientes pasos en esta práctica son:
-
-1. Instalación VirtualBox (opcional si ya esta instalado)
-2. Descarga de Kali Linux
-3. Creación de la maquina virtual
-4. Instalación del sistema operativo
-5. Verificación de la instalación
-
+En ésta práctica aprenderás cómo desplegar un sitio web con Wordpress, que luego utilizarás dentro de tu laboratorio de ciberseguridad. Con éste trabajo entenderás como funciona un servidor web desde dentro, asi como también contarás con un servicio al cual podrás hacer monitoreo y pruebas de seguridad para reforzar las habilidades que vayas adquiriendo a lo largo del curso.
 
 <!-- hide -->
 
@@ -38,7 +27,7 @@ Los siguientes pasos en esta práctica son:
 
 ## Instalación en un clic (recomendado)
 
-Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/installing-kali-linux-on-virtual-machine).
+Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/deploying-wordpress-debian).
 
 > Una vez ya tengas abierto VSCode, los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
 

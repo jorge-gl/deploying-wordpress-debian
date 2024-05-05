@@ -1,25 +1,20 @@
-# VirtualBox Interactive Tutorial
+# Deploying a Wordpress site on Debian
 
 <!-- hide -->
-<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/blob/master/js-bg-badge.png"></a>
+<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/deploying-wordpress-debian/blob/master/js-bg-badge.png"></a>
 
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
-![last commit](https://img.shields.io/github/last-commit/4geeksacademy/installing-windows-on-virtual-machine)
+![last commit](https://img.shields.io/github/last-commit/4GeeksAcademy/deploying-wordpress-debian)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/blob/master/README.es.md) :es:*
+*Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/deploying-wordpress-debian/blob/master/README.es.md) :es:*
 <!-- endhide -->
 
-In this exercise, you will install VirtualBox on your computer and use it to create a virtual machine with Windows 10. VirtualBox will be your lab throughout the course, where you will have virtual machines with different operating systems where you can experiment in a controlled environment without affecting your main machine.
+📝 Instrucciones
 
-The following steps in this exercise are:
-
-1. VirtualBox installation
-2. Windows download
-3. Creation of the virtual machine
-4. Verification of the installation
+In this practicum you will learn how to deploy a Wordpress website, which you will then use in your cybersecurity lab. With this work you will understand how a web server works from the inside, as well as you will have a service to which you can do monitoring and security tests to reinforce the skills you will acquire throughout the course.
 
 <!-- hide -->
 ## Before you start...
@@ -28,7 +23,7 @@ The following steps in this exercise are:
 
 ## One click installation (recommended):
 
-You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/installing-windows-on-virtual-machine).
+You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/deploying-wordpress-debian).
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically, you can try typing on your terminal: `$ learnpack start`
 
