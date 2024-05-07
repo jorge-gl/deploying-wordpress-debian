@@ -12,22 +12,25 @@
 *Estas instrucciones [están disponibles en 🇪🇸 español](https://github.com/4GeeksAcademy/deploying-wordpress-debian/blob/master/README.es.md) :es:*
 <!-- endhide -->
 
-📝 Instrucciones
+## 📝 Instructions
 
 In this practicum you will learn how to deploy a Wordpress website, which you will then use in your cybersecurity lab. With this work you will understand how a web server works from the inside, as well as you will have a service to which you can do monitoring and security tests to reinforce the skills you will acquire throughout the course.
 
 <!-- hide -->
-## Before you start...
+### Before you start...
 
 > We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
+<!-- endhide -->
 
-## One click installation (recommended):
+## 🌱 How to start a project?
+
+### One click installation (recommended):
 
 You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/deploying-wordpress-debian).
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically, you can try typing on your terminal: `$ learnpack start`
 
-## Local Installation
+### Local Installation
 
 Clone this repository in your local environment ([Clone this repository](https://4geeks.com/how-to/github-clone-repository)) and follow the steps below:
 
@@ -45,7 +48,7 @@ $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 
-
+<!-- hide -->
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
@@ -59,5 +62,4 @@ Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds
 This project follows the [all-contributors](https://github.com/kentcdodds/all-contributors) specification. Contributions of any kind are welcome!
 
 This and many other exercises are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sánchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and  [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).You can alse deepdive in the world of cybersecurity with our [Cybersecurity Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/cybersecurity)
-<!-- endhide -->
 <!-- endhide -->

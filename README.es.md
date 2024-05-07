@@ -11,7 +11,7 @@
 *These instructions are [available in english](https://github.com/4GeeksAcademy/deploying-wordpress-debian/blob/main/README.md)*
 <!-- endhide -->
 
-📝 Instrucciones
+## 📝 Instrucciones
 
 En ésta práctica aprenderás cómo desplegar un sitio web con Wordpress, que luego utilizarás dentro de tu laboratorio de ciberseguridad. Con éste trabajo entenderás como funciona un servidor web desde dentro, asi como también contarás con un servicio al cual podrás hacer monitoreo y pruebas de seguridad para reforzar las habilidades que vayas adquiriendo a lo largo del curso.
 
@@ -23,15 +23,15 @@ En ésta práctica aprenderás cómo desplegar un sitio web con Wordpress, que l
 
 <!-- endhide -->
 
-🌱 ¿Cómo empezar este proyecto?
+## 🌱 ¿Cómo empezar este proyecto?
 
-## Instalación en un clic (recomendado)
+### Instalación en un clic (recomendado)
 
 Puedes empezar estos ejercicios en pocos segundos haciendo clic en: [Abrir en Codespaces](https://codespaces.new/?repo=4GeeksAcademy/deploying-wordpress-debian).
 
 > Una vez ya tengas abierto VSCode, los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
 
-## Instalación local:
+### Instalación local:
 
 Clona el repositorio en tu ambiente local y sigue los siguientes pasos:
 
@@ -57,6 +57,7 @@ $ cd html-forms-tutorial-exercises
 $ npm i jest@24.8.0 -g
 $ learnpack start
 ```
+
 <!-- hide -->
 
 ## Colaboradores
