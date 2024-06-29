@@ -1,7 +1,5 @@
-# Deploying a Wordpress site on Debian
-
 <!-- hide -->
-<a href="https://www.4geeksacademy.co"><img height="280" align="right" src="https://github.com/4GeeksAcademy/deploying-wordpress-debian/blob/master/js-bg-badge.png"></a>
+# Deploying Apache Server and a Wordpress site on Debian (LAMP)
 
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/installing-windows-on-virtual-machine/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -14,7 +12,14 @@
 
 ## 📝 Instructions
 
-In this practicum you will learn how to deploy a Wordpress website, which you will then use in your cybersecurity lab. With this work you will understand how a web server works from the inside, as well as you will have a service to which you can do monitoring and security tests to reinforce the skills you will acquire throughout the course.
+In this project: 
+
+- You will learn how to install and start an Apache server, which handles 30% of today's internet traffic and is among the top four most used servers in the world.
+- You will get familiar with deploying a WordPress website, which is used by 42% of today's websites.
+
+This setup is called LAMP and you will be using this during several of other cybersecurity projects. 
+
+With this work, you will understand how a web server works from the inside, and you will have a service to which you can do monitoring and security tests to reinforce the skills you will acquire throughout the course.
 
 <!-- hide -->
 ### Before you start...
