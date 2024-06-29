@@ -1,19 +1,27 @@
-# Desplegando un sitio Wordpress en Debian
-
 <!-- hide -->
+# Desplegando un servidor Apache y sitio Wordpress en Debian (LAMP)
 
-> By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/4GeeksAcademy/deploying-wordpress-debian/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
+
+> By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/breatheco-de/deploying-wordpress-debian/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
 ![last commit](https://img.shields.io/github/last-commit/4geeksacademy/installing-kali-linux-on-virtual-machine)
 [![build by developers](https://img.shields.io/badge/build_by-Developers-blue)](https://4geeks.com)
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
-*These instructions are [available in english](https://github.com/4GeeksAcademy/deploying-wordpress-debian/blob/main/README.md)*
+*These instructions are [available in english](https://github.com/breatheco-de/deploying-wordpress-debian/blob/main/README.md)*
 <!-- endhide -->
 
 ## 📝 Instrucciones
 
-En ésta práctica aprenderás cómo desplegar un sitio web con Wordpress, que luego utilizarás dentro de tu laboratorio de ciberseguridad. Con éste trabajo entenderás como funciona un servidor web desde dentro, asi como también contarás con un servicio al cual podrás hacer monitoreo y pruebas de seguridad para reforzar las habilidades que vayas adquiriendo a lo largo del curso.
+En este proyecto:
+
+- Aprenderás a instalar y poner en marcha un servidor Apache, que maneja [el 30% del tráfico de internet de hoy en día](https://w3techs.com/technologies/details/ws-apache) y se encuentra entre los cuatro servidores más utilizados en el mundo.
+- Te familiarizarás con el despliegue de un sitio web en WordPress, [que es utilizado por el 42% de los sitios web actuales](https://kinsta.com/wordpress-market-share/#h-wordpress-market-share-is-wp-market-share-of-all-websites).
+
+Esta configuración se llama [LAMP](https://es.wikipedia.org/wiki/LAMP_(software_bundle)), y es el stack más popular en internet hoy en día. Utilizarás esto durante varios otros proyectos de ciberseguridad.
+
+Con este trabajo, comprenderás cómo funciona un servidor web desde el interior y tendrás un servicio en el que podrás realizar monitoreo y pruebas de seguridad para reforzar las habilidades que adquirirás a lo largo del curso.
+
 
 <!-- hide -->
 
