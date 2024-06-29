@@ -9,8 +9,9 @@
     "us": "Learn how to make a basic deployment of a website with Wordpress, one of the most popular content management software.",
     "es": "Aprende a hacer un despliegue básico de un sitio web con Wordpress, uno de los softwares de control de contenido mas populares."
   },
+  "preview": "https://raw.githubusercontent.com/breatheco-de/deploying-wordpress-debian/master/.learn/assets/prevoew.png",
   "grading": "isolated",
-  "repository": "https://github.com/4GeeksAcademy/iptables-blocking-practice",
+  "repository": "https://github.com/breatheco-de/deploying-wordpress-debian",
   "duration": 2,
   "difficulty": "intermediate",
   "videoSolutions": true,
