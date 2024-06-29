@@ -14,10 +14,10 @@
 
 In this project: 
 
-- You will learn how to install and start an Apache server, which handles 30% of today's internet traffic and is among the top four most used servers in the world.
-- You will get familiar with deploying a WordPress website, which is used by 42% of today's websites.
+- You will learn how to install and start an Apache server, which handles [30% of today's internet traffic](https://w3techs.com/technologies/details/ws-apache) and is among the top four most used servers in the world.
+- You will get familiar with deploying a WordPress website, [which is used by 42% of today's websites](https://kinsta.com/wordpress-market-share/#h-wordpress-market-share-is-wp-market-share-of-all-websites).
 
-This setup is called LAMP and you will be using this during several of other cybersecurity projects. 
+This setup is called [LAMP](https://en.wikipedia.org/wiki/LAMP_(software_bundle)), and it is the most popular stack on the internet today. You will be using this during several other cybersecurity projects. 
 
 With this work, you will understand how a web server works from the inside, and you will have a service to which you can do monitoring and security tests to reinforce the skills you will acquire throughout the course.
 
