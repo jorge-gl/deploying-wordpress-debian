@@ -29,13 +29,15 @@ With this work, you will understand how a web server works from the inside, and 
 
 ## 🌱 How to start a project?
 
-### Cloud-based installation
+There are two options: Cloud-based or local in your computer.
+
+### A) Cloud-based installation
 
 You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://s.4geeks.com/start?repo=https://github.com/breatheco-de/deploying-wordpress-debian).
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically, you can try typing on your terminal: `$ learnpack start`
 
-### Local Installation
+### B) Local Installation
 
 Clone this repository in your local environment ([how to clone this repository](https://4geeks.com/how-to/github-clone-repository)) and follow the steps below:
 
