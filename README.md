@@ -1,5 +1,5 @@
 <!-- hide -->
-# Deploying Apache Server and a Wordpress site on Debian (LAMP)
+# Deploying Apache Server and a WordPress site on Debian (LAMP)
 
 > By [@arnaldoperez](https://github.com/arnaldoperez) and [other contributors](https://github.com/breatheco-de/installing-windows-on-virtual-machine/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -29,27 +29,25 @@ With this work, you will understand how a web server works from the inside, and 
 
 ## 🌱 How to start a project?
 
-### One click installation (recommended):
+### Cloud-based installation
 
-You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://codespaces.new/?repo=4GeeksAcademy/deploying-wordpress-debian).
+You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://s.4geeks.com/start?repo=https://github.com/breatheco-de/deploying-wordpress-debian).
 
 > Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically, you can try typing on your terminal: `$ learnpack start`
 
 ### Local Installation
 
-Clone this repository in your local environment ([Clone this repository](https://4geeks.com/how-to/github-clone-repository)) and follow the steps below:
+Clone this repository in your local environment ([how to clone this repository](https://4geeks.com/how-to/github-clone-repository)) and follow the steps below:
 
 1. Install LearnPack, the package manager for learning tutorials and the node compiler plugin for learnpack, make sure you also have node.js 14:
 
 ```bash
 $ npm i @learnpack/learnpack -g
-$ learnpack plugins:install learnpack-node
 ```
 
 2. Start the tutorial/exercises by running the following command at the same level where your learn.json file is:
 
 ```bash
-$ npm i jest@24.8.0 -g
 $ learnpack start
 ```
 
