@@ -1,15 +1,6 @@
 # `00` Bienvenido
 
-Para esta práctica, debes importar una máquina virtual que hemos preparado para ti. Viene con Debian instalado y tiene algunas configuraciones básicas que se utilizarán a lo largo del bootcamp. Por lo demás, es una máquina Debian regular como cualquier otra, y será un espacio importante donde aprenderás a usar sistemas GNU/Linux de manera segura para su uso en entornos de red como servidor.
-
-[Descarga aquí](https://storage.googleapis.com/breathecode/virtualbox/deb.ova) el archivo que debes importar a VirtualBox para crear la máquina virtual Debian. Es un archivo pesado, por lo que se recomienda descargarlo con anticipación para ahorrar tiempo cuando realices la práctica.
-
-```txt
-Información para acceder a la máquina Debian
-Usuario: deb
-Contraseña: 123456
-Contraseña de Root: 123456
-```
+Para esta práctica debes importar una máquina virtual que hemos preparado para ti. Viene con Debian instalado y tiene algunas configuraciones básicas que se utilizarán durante el bootcamp. Aquí tienes la información y las [instrucciones de instalación para la VM de Debian](https://4geeks.com/es/docs/start/cybersecurity-virtual-machines#debian-virtual-machine).
 
 ## Instalación de WordPress
 
