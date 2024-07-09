@@ -1,31 +1,27 @@
+Sure, here is the translated text to Spanish in markdown:
+
 # `06` Valida tu instalación
 
-Si ya lograste ver tu sitio web estás listo para validar tu instalación. Este paso es consiste en ejecutar un script de verificación para validar lo solicitado en ésta práctica, para ello sigue los siguientes pasos:
+Si ya has logrado ver tu sitio web, estás listo para validar tu instalación. Este paso consiste en ejecutar un script de verificación para validar lo que se solicita en esta práctica, para hacerlo sigue estos pasos:
 
-## 1. Habilitar el puerto público
+## 1. Ejecuta el script de validación `validate-wordpress-site.sh`.
 
-Para que learnpack pueda recibir la información que se enviará desde tu maquina, es necesario habilitar el acceso público del puerto, que por seguridad viene privado por defecto.
+Una vez que hayas ejecutado el script para verlo funcionar y lo hayas agregado a los trabajos de cron, es hora de validar.
 
-Para ello selecciona la pestaña "Puertos" en el panel inferior de codespace, ahi verás los puertos que se están utilizando. Necesitas publicar el puerto `3001` y para ello has click con el botón derecho del mouse en el puerto, ve al menú `Visibilidad del puerto` y selecciona la opción `Público`
+Dentro de este repositorio, en la carpeta `.learn/assets`, encontrarás un script de bash `validate-wordpress-site.sh`. Ejecuta el script escribiendo el siguiente comando:
 
-![Puerto público](../../../../.learn/assets/public-ports.png)
+```bash
+bash .learn/assets/validate-wordpress-site.sh
+```
 
-## 2. Ejecuta el script de validación `validate-wordpress-site.sh`
+## 2. Ejecuta la prueba
 
-Una vez que hayas ejecutado el script para verlo funcionar, y lo hayas agregado las tareas cron, es hora de validar.
+Una vez que el script se haya ejecutado correctamente, podrás ejecutar la prueba para validar tu instalación de Windows en VirtualBox.
 
-En el escritorio de tu máquina Debian conseguirás una carpeta llamada `cybersecurity-scripts` y dentro una correspondiente al modulo `03-servers`. Dentro de esta carpeta debes ejecutar con bash el script `validate-wordpress-site.sh`. Al ejecutarlo te solicitará la dirección de learnpack que puedes ver en el archivo `url.txt` de este repositorio.
+![Script Windows](https://raw.githubusercontent.com/breatheco-de/deploying-wordpress-debian/master/.learn/assets/script-test.png)
 
-Si todo sale bien, en la terminal verás un mensaje confirmándote que los datos fueron enviados.
+## 3. ¡Has terminado!
 
-## 3. Ejecuta la prueba
+Si pasaste las pruebas, ahora has desplegado un sitio de WordPress en un servidor Debian. De esta manera, puedes experimentar con escenarios que pongan a prueba tus habilidades en ciberseguridad y monitoreo de eventos.
 
-Una vez ejecutado el script con éxito, podrás ejecutar la prueba para validar tu instalación de Windows en VirtualBox.
-
-![Script Windows](../../../../.learn/assets/script-test.png)
-
-## 4. ¡Listo!
-
-Si lograste pasar las pruebas, ya has desplegado un sitio Wordpress en un servidor Debian. De esta forma podrás experimentar con escenarios que pongan a prueba tus habilidades de ciberseguridad y monitoreo de eventos.
-
-Si tienes algún problema no dudes en recurrir a un mentor o a los demás canales de apoyo que te ofrece 4Geeks.
+Si tienes algún problema, no dudes en preguntar a un mentor o a los otros canales de soporte ofrecidos por 4Geeks.
