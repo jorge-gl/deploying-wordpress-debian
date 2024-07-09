@@ -33,22 +33,12 @@ Con este trabajo, comprenderás cómo funciona un servidor web desde el interior
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
-Hay dos maneras de empezar el tutorial interactivo: En la nube o en tu maquina local.
-
-### A) Instalación en la nube
-
-Puedes empezar estos ejercicios en pocos segundos haciendo clic aqui: [Abrir en la nube](https://s.4geeks.com/start?repo=https://github.com/breatheco-de/deploying-wordpress-debian).
-
-> Una vez ya tengas abierto VSCode, los ejercicios de LearnPack deberían empezar automáticamente, si esto no sucede puedes intentar empezar los ejercicios escribiendo este comando en tu terminal: `$ learnpack start`
-
-### B) Instalación en local
-
-Clona el repositorio en tu ambiente local y sigue los siguientes pasos:
+Clona este repositorio dentro de tu maquina virtual de Kali Linux y sigue los siguientes pasos:
 
 1. Instala LearnPack, el package manager para tutoriales de aprendizaje y el HTML compiler plugin para LearnPack, asegúrate también de tener node.js 16+:
 
 ```bash
-$ npm i learnpack -g
+$ npm i @learnpack/learnpack -g
 ```
 
 2. Inicializa el tutorial/ejercicios ejecutando el siguiente comando en el mismo nivel donde se encuentra tu archivo learn.json:
