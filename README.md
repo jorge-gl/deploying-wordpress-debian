@@ -24,22 +24,12 @@ With this work, you will understand how a web server works from the inside, and 
 <!-- hide -->
 ### Before you start...
 
-> We need you! These exercises are built and maintained in collaboration with contributors such as yourself. If you find any bugs or misspellings please contribute and/or report them.
+> We need you! These exercises are built and maintained in collaboration with contributors like yourself. If you find any bugs or misspellings, please contribute and/or report them.
 <!-- endhide -->
 
 ## 🌱 How to start a project?
 
-There are two options: Cloud-based or local in your computer.
-
-### A) Cloud-based installation
-
-You can open these exercises in just a few seconds by clicking: [Open in Codespaces](https://s.4geeks.com/start?repo=https://github.com/breatheco-de/deploying-wordpress-debian).
-
-> Once you have VSCode open the LearnPack exercises should start automatically. If exercises don't run automatically, you can try typing on your terminal: `$ learnpack start`
-
-### B) Local Installation
-
-Clone this repository in your local environment ([how to clone this repository](https://4geeks.com/how-to/github-clone-repository)) and follow the steps below:
+Clone this repository in your debian virtual machine ([how to clone this repository](https://4geeks.com/how-to/github-clone-repository)) and follow the steps below:
 
 1. Install LearnPack, the package manager for learning tutorials and the node compiler plugin for learnpack, make sure you also have node.js 14:
 
