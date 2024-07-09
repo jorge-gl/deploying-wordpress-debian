@@ -1,34 +1,32 @@
 {
-  "language": "node",
-  "title": {
-    "us": "Deploying Wordpress Site on Debian",
-    "es": "Desplegando un sitio Wordpress en Debian"
-  },
-  "slug": "deploying-wordpress-site-on-debian",
-  "description": {
-    "us": "Learn how to make a basic deployment of a website with Wordpress, one of the most popular content management software.",
-    "es": "Aprende a hacer un despliegue básico de un sitio web con Wordpress, uno de los softwares de control de contenido mas populares."
-  },
-  "preview": "https://raw.githubusercontent.com/breatheco-de/deploying-wordpress-debian/master/.learn/assets/prevoew.png",
-  "grading": "isolated",
-  "repository": "https://github.com/breatheco-de/deploying-wordpress-debian",
-  "duration": 2,
-  "difficulty": "intermediate",
-  "projectType": "tutorial",
-  "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-  "technologies": ["cybersecurity","network"],
-  "graded": true,
-  "editor": {
-    "version": "3.1.23"
-  },
-  "telemetry": {
-    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
-  },
+	  "language": "node",
+	  "title": {
+	    	"us": "Deploying Wordpress Site on Debian",
+	    	"es": "Desplegando un sitio Wordpress en Debian"
+	  },
+	  "slug": "deploying-wordpress-site-on-debian",
+	  "description": {
+	    	"us": "Learn how to make a basic deployment of a website with Wordpress, one of the most popular content management software.",
+	    	"es": "Aprende a hacer un despliegue básico de un sitio web con Wordpress, uno de los softwares de control de contenido mas populares."
+	  },
+	  "preview": "https://raw.githubusercontent.com/breatheco-de/deploying-wordpress-debian/master/.learn/assets/prevoew.png",
+	  "grading": "isolated",
+	  "repository": "https://github.com/breatheco-de/deploying-wordpress-debian",
+	  "duration": 2,
+	  "difficulty": "intermediate",
+	  "projectType": "tutorial",
+	  "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+	  "technologies": ["cybersecurity","network"],
+	  "graded": true,
+	  "editor": {
+	    	"version": "3.1.23"
+	  },
+	  "telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+	  },
+	"localhostOnly": true,
 	"delivery": {
-		"instructions": {
-			"us": "URL pointing to your python or bash script that implements the backup, you can upload it to Github.com into a public repo and provide the URL",
-			"es": "URL que apunte a tu archive python o bash que implementa los backups como se require, puedes subirlo a Github.com a un repositorio public y proveer el URL."
-		},
-		"formats": ["url"]
+		"formats": ["no_delivery"]
 	}
+}
 }
