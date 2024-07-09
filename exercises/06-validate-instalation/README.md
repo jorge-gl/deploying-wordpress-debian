@@ -16,7 +16,7 @@ bash .learn/assets/validate-wordpress-site.sh
 
 Once the script is successfully executed, you will be able to run the test to validate your Windows installation in VirtualBox.
 
-![Script Windows](../../../../.learn/assets/script-test.png)
+![Script Windows](https://raw.githubusercontent.com/breatheco-de/deploying-wordpress-debian/master/.learn/assets/script-test.png)
 
 ## 4. You're done!
 
