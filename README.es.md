@@ -33,7 +33,7 @@ Con este trabajo, comprenderás cómo funciona un servidor web desde el interior
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
-Clona este repositorio dentro de tu maquina virtual de Kali Linux y sigue los siguientes pasos:
+Clona este repositorio dentro de tu maquina virtual de Debian y sigue los siguientes pasos:
 
 1. Instala LearnPack, el package manager para tutoriales de aprendizaje y el HTML compiler plugin para LearnPack, asegúrate también de tener node.js 16+:
 
